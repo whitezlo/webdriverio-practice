@@ -1,13 +1,5 @@
-/*
-# for id
-. for class
-= for linktext
-=* fro partial link text
-Xpath like traditional way.
-*/
-
 var assert = require('assert');
-describe('webdriver.io page', function() {
+describe('Google translate', function() {
     it('should have the right translation', function () {
         var textRussian="На Здоровье!";
         var input='#tw-source-text-ta';
