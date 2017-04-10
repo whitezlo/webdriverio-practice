@@ -4,6 +4,8 @@ WebDriverIO practice folder
 
 
 # Notes:
+
+## Selectors:
 ```sh
 # for id
 . for class
